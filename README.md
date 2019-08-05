@@ -2,7 +2,7 @@
 
 Bookface HTML template
 
-Preview: https://abbasalbukhari.github.io/Bookface-html-template-master/home.html
+Preview: https://abbasalbukhari.github.io/Bookface-html-template/home.html
 
 A very very basic Facebook clone template meant for readers of my Medium posts on building a Facebook clone with PHP from scratch. Download and build your own Facebook!
 
